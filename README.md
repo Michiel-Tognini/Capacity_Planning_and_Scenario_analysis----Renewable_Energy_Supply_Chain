@@ -13,7 +13,7 @@ Using a simulation model built in **Python and Excel**, I evaluate trade-offs be
 
 The results provide data-driven guidance for capacity planning and investment decisions for Distribution System Operators (DSOs), energy planners, and infrastructure investors.<br /><br />
 
-![Screenshot Dashboard](https://github.com/koptelevoon/Data-cleaning/blob/bb62cd1be1a0c791c2ee69e1006ee9a57e0a4da5/Screenshot%20dashboard.png)<br />
+![Screenshot Dashboard](Screenshot Excel model.png)<br />
 
 **2)	Key Operational Metrics and Dimensions**<br />
 -----------------------------
