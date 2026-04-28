@@ -13,7 +13,7 @@ Using a simulation model built in **Python and Excel**, I evaluate trade-offs be
 
 The results provide data-driven guidance for capacity planning and investment decisions for Distribution System Operators (DSOs), energy planners, and infrastructure investors.<br /><br />
 
-**2)	North Star Metrics and Dimensions**<br />
+**2)	Key Operational Metrics and Dimensions**<br />
 -----------------------------
 Core decision metrics<br />
 - Required hydrogen buffer size (kg)<br />
