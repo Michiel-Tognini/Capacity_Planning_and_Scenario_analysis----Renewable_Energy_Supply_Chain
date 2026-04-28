@@ -81,7 +81,7 @@ This project models a realistic energy supply chain using hourly time-series dat
 **4)	Recommendations**<br />
 -----------------------------
 **Answer to main business question:**<br />
-*Hydrogen injection can substantially reduce required storage capacity when perofrming within a system that operates under the right characteristics while guaranteeing operational flexibility.*<br /><br />
+*Hydrogen injection can substantially reduce required storage capacity when performing within a system that operates under the right characteristics while guaranteeing operational flexibility.*<br /><br />
 
 **Strategic Recommendations**<br />
 - Prioritize injection in wind-heavy systems: Highest impact on storage reduction<br />
